@@ -1,0 +1,180 @@
+/* --- CSS Variables - CHỈ CÓ THEME TỐI --- */
+:root {
+    --bg-body: #121212;
+    --bg-sidebar: #1e1e1e;
+    --bg-content: #1e1e1e;
+    --text-primary: #e5e7eb;
+    --text-secondary: #d1d5db;
+    --text-subtle: #888;
+    --border-color: #333;
+    --primary-color: #FF6600;
+    --primary-color-hover: #e65c00;
+    --nav-hover-bg: #2c2c2c;
+    --shadow-color: rgba(0, 0, 0, 0.2);
+}
+
+/* --- Base & Reset --- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    background-color: var(--bg-body);
+    color: var(--text-primary);
+}
+
+/* --- App Layout --- */
+.app-container {
+    display: flex;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+/* --- Sidebar Styling --- */
+.sidebar {
+    width: 280px;
+    background-color: var(--bg-sidebar);
+    border-right: 1px solid var(--border-color);
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    transition: transform 0.3s ease;
+    z-index: 100;
+}
+
+.sidebar-header {
+    padding: 1.5rem;
+    text-align: center;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.logo {
+    max-width: 140px;
+    height: auto;
+}
+
+.sidebar-nav {
+    flex-grow: 1;
+    padding: 1rem 0;
+}
+
+.nav-link {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.9rem 1.5rem;
+    margin: 0.25rem 1rem;
+    color: var(--text-secondary);
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 500;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.nav-link i {
+    width: 20px;
+    height: 20px;
+}
+
+.nav-link:hover {
+    background-color: var(--nav-hover-bg);
+    color: var(--text-primary);
+}
+
+.nav-link.active {
+    background-color: var(--primary-color);
+    color: white;
+    font-weight: 700;
+}
+
+.nav-link.active:hover {
+    color: white;
+}
+
+.sidebar-footer {
+    padding: 1.5rem;
+    border-top: 1px solid var(--border-color);
+}
+
+.sidebar-footer p {
+    text-align: center;
+    font-size: 0.75rem;
+    color: #999;
+}
+
+/* --- Main Panel Styling --- */
+.main-panel {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding: 1.5rem 2rem;
+}
+
+.main-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+#page-title {
+    font-size: 1.75rem;
+    color: var(--text-primary);
+    margin-bottom: 0.25rem;
+}
+
+.main-header .header-title p {
+    font-size: 0.9rem;
+    color: var(--text-subtle);
+}
+
+.content-wrapper {
+    background-color: var(--bg-content);
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px var(--shadow-color);
+}
+
+/* --- Responsive Design --- */
+.hamburger-btn {
+    display: none;
+    background: none;
+    border: none;
+    color: var(--text-primary);
+    cursor: pointer;
+    padding: 0.5rem;
+}
+
+@media (max-width: 768px) {
+    .sidebar {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        transform: translateX(-100%);
+        box-shadow: 4px 0 15px rgba(0,0,0,0.1);
+    }
+    .sidebar.visible {
+        transform: translateX(0);
+    }
+    .main-panel {
+        padding: 1rem;
+    }
+    .main-header {
+        padding-bottom: 1rem;
+        margin-bottom: 1rem;
+    }
+    #page-title {
+        font-size: 1.5rem;
+    }
+    .hamburger-btn {
+        display: block;
+    }
+    .content-wrapper {
+        padding: 1rem;
+    }
+}

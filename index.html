@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cổng Thông Tin Quản Trị 1CAR</title>
+    
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap" rel="stylesheet">
+    
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body class="dark"> <div class="app-container">
+        <aside id="sidebar" class="sidebar">
+            <div class="sidebar-header">
+                <img src="img/LOGO-1CAR.png" alt="1CAR Logo" class="logo">
+            </div>
+            
+            <nav class="sidebar-nav">
+                <a href="#" data-page="home" data-file="content/home.md" class="nav-link">
+                    <i data-lucide="home"></i>
+                    <span>Trang chủ</span>
+                </a>
+                <a href="#" data-page="strategy" data-file="content/1_strategy_analysis.md" class="nav-link">
+                    <i data-lucide="compass"></i>
+                    <span>Định hướng Chiến lược</span>
+                </a>
+                <a href="#" data-page="legal" data-file="content/2_legal_foundation.md" class="nav-link">
+                    <i data-lucide="gavel"></i>
+                    <span>Nền tảng Pháp lý</span>
+                </a>
+                <a href="#" data-page="operations" data-file="content/3_operational_regulations.md" class="nav-link">
+                    <i data-lucide="sliders-horizontal"></i>
+                    <span>Quy chế Vận hành</span>
+                </a>
+                <a href="#" data-page="finance" data-file="content/4_financial_governance.md" class="nav-link">
+                    <i data-lucide="piggy-bank"></i>
+                    <span>Quản trị Tài chính</span>
+                </a>
+                <a href="#" data-page="hr" data-file="content/5_hr_and_culture.md" class="nav-link">
+                    <i data-lucide="users"></i>
+                    <span>Nhân sự & Văn hóa</span>
+                </a>
+                <a href="#" data-page="sops" data-file="content/6_sops_and_training.md" class="nav-link">
+                    <i data-lucide="book-check"></i>
+                    <span>SOPs & Đào tạo</span>
+                </a>
+            </nav>
+
+            <div class="sidebar-footer">
+                <p>&copy; 2025 1CAR VIETNAM</p>
+                <p>Dark Mode Edition</p>
+            </div>
+        </aside>
+        
+        <main class="main-panel">
+            <header class="main-header">
+                <button id="hamburger-btn" class="hamburger-btn">
+                    <i data-lucide="menu"></i>
+                </button>
+                <div class="header-title">
+                    <h1 id="page-title">Trang chủ</h1>
+                    <p>Nền tảng tri thức dành cho Hội đồng Quản trị và Ban Điều hành</p>
+                </div>
+            </header>
+            
+            <div id="content-area" class="content-wrapper">
+                <div id="loader" class="loader-container">
+                    <div class="loader-spinner"></div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
