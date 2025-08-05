@@ -106,7 +106,7 @@ Hệ thống kiểm soát nội bộ được tích hợp vào các quy trình v
 
 2.  **Quản lý Kho Phụ tùng:**
     -   Áp dụng phương pháp nhập trước, xuất trước (FIFO).
-    -   Mọi hoạt động xuất/nhập/chuyển kho phải được thực hiện trên hệ thống GMS/ERP theo thời gian thực.
+    -   Mọi hoạt động xuất/nhập/chuyển kho phải được thực hiện trên hệ thống IGMS/ERP theo thời gian thực.
     -   Thực hiện kiểm kê định kỳ (hàng tháng đối với các mặt hàng có giá trị cao, hàng quý đối với toàn bộ kho) và đối chiếu với sổ sách. Mọi chênh lệch phải được báo cáo và xử lý kịp thời.
 
 3.  **Quản lý Công nợ:**
@@ -114,8 +114,8 @@ Hệ thống kiểm soát nội bộ được tích hợp vào các quy trình v
     -   **Phải trả:** Thanh toán cho nhà cung cấp đúng hạn theo điều khoản hợp đồng để giữ uy tín và tận dụng các chính sách chiết khấu.
 
 4.  **Đối soát Doanh thu:**
-    -   **Hàng ngày:** Quản lý Garage chịu trách nhiệm đối soát tổng doanh thu trên hệ thống GMS với tổng số tiền thực thu (tiền mặt, chuyển khoản, cà thẻ) và nộp vào tài khoản ngân hàng.
-    -   **Hàng tuần:** Phòng TCKT đối soát sao kê ngân hàng với dữ liệu doanh thu từ hệ thống GMS của toàn chuỗi để phát hiện sai lệch.
+    -   **Hàng ngày:** Quản lý Garage chịu trách nhiệm đối soát tổng doanh thu trên hệ thống IGMS với tổng số tiền thực thu (tiền mặt, chuyển khoản, cà thẻ) và nộp vào tài khoản ngân hàng.
+    -   **Hàng tuần:** Phòng TCKT đối soát sao kê ngân hàng với dữ liệu doanh thu từ hệ thống IGMS của toàn chuỗi để phát hiện sai lệch.
 
 5.  **Kiểm soát đối với mô hình FOFO:**
     -   Ủy ban Kiểm toán & QLRR thực hiện kiểm tra định kỳ hoặc đột xuất việc tuân thủ các nghĩa vụ tài chính của bên nhận quyền (thanh toán phí bản quyền, phí marketing).
@@ -151,5 +151,5 @@ Hệ thống kiểm soát nội bộ được tích hợp vào các quy trình v
 
 *(Ký tên và đóng dấu)*
 
-**[Tên Chủ tịch HĐQT]**
+**[Chủ tịch HĐQT]**
 ---

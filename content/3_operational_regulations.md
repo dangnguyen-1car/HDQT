@@ -1,26 +1,39 @@
 **TÀI LIỆU**
 **BỘ QUY CHẾ VẬN HÀNH NỘI BỘ**
-**CÔNG TY CỔ PHẦN [TÊN CÔNG TY]**
+**CÔNG TY CỔ PHẦN 1CAR GARA**
 
 ---
 
 **MỤC LỤC**
 
 **PHẦN 1: QUY CHẾ HOẠT ĐỘNG CÁC ỦY BAN CHUYÊN MÔN THUỘC HĐQT**
+
 1.1. Quy chế Hoạt động của Ủy ban Kiểm toán và Quản lý Rủi ro
+
 1.2. Quy chế Hoạt động của Ủy ban Chiến lược và Phát triển Mạng lưới
 
+
 **PHẦN 2: KHUNG CHÍNH SÁCH VẬN HÀNH CHUỖI**
+
 2.1. Chính sách Vận hành Chung Toàn hệ thống
+
 2.2. Phụ lục 1: Quy định Vận hành chi tiết cho Mô hình COCO
+
 2.3. Phụ lục 2: Quy định Vận hành chi tiết cho Mô hình FOFO
+
 2.4. Hệ thống Chỉ số Đo lường Hiệu quả (KPIs)
 
+
 **PHẦN 3: BỘ QUY TẮC ỨNG XỬ VÀ ĐẠO ĐỨC KINH DOANH**
+
 3.1. Lời nói đầu và Giá trị Cốt lõi
+
 3.2. Cam kết đối với các Bên liên quan
+
 3.3. Các Quy tắc Ứng xử Cơ bản
+
 3.4. Tổ chức thực hiện và Xử lý vi phạm
+
 
 ---
 
@@ -100,13 +113,13 @@
 
 #### **2.1. Chính sách Vận hành Chung Toàn hệ thống**
 
-*   **Điều 1. Mục tiêu:** Thiết lập một tiêu chuẩn vận hành nhất quán, chuyên nghiệp trên toàn bộ mạng lưới garage của Công ty, nhằm mang lại trải nghiệm dịch vụ đồng bộ, chất lượng cao và củng cố giá trị thương hiệu **"Đối tác Tin cậy cho Xế yêu"**.
+*   **Điều 1. Mục tiêu:** Thiết lập một tiêu chuẩn vận hành nhất quán, chuyên nghiệp trên toàn bộ mạng lưới garage của Công ty, nhằm mang lại trải nghiệm dịch vụ đồng bộ, chất lượng cao và củng cố giá trị thương hiệu **"Sửa xe ở 1CAR, rinh an tâm về nhà"**.
 *   **Điều 2. Phạm vi áp dụng:** Chính sách này là bắt buộc áp dụng cho tất cả các điểm dịch vụ thuộc hệ thống, bao gồm các trung tâm COCO và các đơn vị nhượng quyền FOFO.
 *   **Điều 3. Quy trình Vận hành Chuẩn (SOP) - 8 Bước Vàng:** Tất cả các điểm dịch vụ phải tuân thủ nghiêm ngặt quy trình 8 bước trong hành trình trải nghiệm của khách hàng:
 
     1.  **Tiếp nhận & Đặt hẹn:** Ghi nhận thông tin khách hàng chính xác vào hệ thống CRM. Xác nhận lịch hẹn chuyên nghiệp.
     2.  **Tiếp nhận xe & Tư vấn:** Cố vấn Dịch vụ (CVDV) đón tiếp khách hàng, sử dụng checklist kiểm tra sơ bộ 20 điểm quanh xe cùng khách hàng và ghi nhận các yêu cầu.
-    3.  **Kiểm tra & Chẩn đoán:** Kỹ thuật viên (KTV) tiếp nhận lệnh sửa chữa, thực hiện chẩn đoán bằng máy móc và kinh nghiệm, ghi nhận kết quả vào hệ thống GMS.
+    3.  **Kiểm tra & Chẩn đoán:** Kỹ thuật viên (KTV) tiếp nhận lệnh sửa chữa, thực hiện chẩn đoán bằng máy móc và kinh nghiệm, ghi nhận kết quả vào hệ thống IGMS.
     4.  **Báo giá & Chốt phương án:** CVDV giải thích rõ ràng, minh bạch cho khách hàng về tình trạng xe, các phương án sửa chữa, và báo giá chi tiết (công thợ, phụ tùng). Chỉ tiến hành khi có sự xác nhận của khách hàng.
     5.  **Thực hiện Sửa chữa:** KTV thực hiện công việc theo đúng quy trình kỹ thuật, đảm bảo an toàn và chất lượng.
     6.  **Kiểm tra Chất lượng (QC):** Tổ trưởng Kỹ thuật hoặc Quản lý Garage kiểm tra lại toàn bộ các hạng mục đã sửa chữa, chạy thử xe và ký xác nhận hoàn thành trên lệnh sửa chữa.
@@ -128,7 +141,7 @@
     *   Chỉ tiêu kinh doanh (doanh thu, lợi nhuận) được Trụ sở chính giao trực tiếp và đánh giá hàng tháng/quý.
 *   **Điều 4. Chuỗi cung ứng và Kho:**
     *   Việc đặt hàng phụ tùng được thực hiện tập trung thông qua Phòng Cung ứng tại Trụ sở chính để đảm bảo giá tốt nhất và kiểm soát chất lượng.
-    *   Quản lý kho tại chi nhánh phải tuân thủ quy trình kiểm kê, sắp xếp và xuất/nhập kho trên hệ thống GMS/ERP.
+    *   Quản lý kho tại chi nhánh phải tuân thủ quy trình kiểm kê, sắp xếp và xuất/nhập kho trên hệ thống IGMS/ERP.
 
 ---
 
@@ -143,7 +156,7 @@
     *   Franchisee chịu trách nhiệm tuyển dụng và quản lý nhân sự.
     *   Toàn bộ nhân sự chủ chốt (Quản lý Garage, Cố vấn Dịch vụ, Tổ trưởng Kỹ thuật) bắt buộc phải tham gia và đạt chứng chỉ từ các khóa đào tạo do Franchisor tổ chức.
 *   **Điều 4. Chính sách Hỗ trợ và Chia sẻ Lợi ích:**
-    *   **Hỗ trợ từ Franchisor:** Cung cấp quyền sử dụng thương hiệu, hệ thống công nghệ (CRM, GMS), đào tạo, hỗ trợ marketing toàn quốc, và nguồn cung ứng phụ tùng chất lượng cao.
+    *   **Hỗ trợ từ Franchisor:** Cung cấp quyền sử dụng thương hiệu, hệ thống công nghệ (CRM, IGMS), đào tạo, hỗ trợ marketing toàn quốc, và nguồn cung ứng phụ tùng chất lượng cao.
     *   **Nghĩa vụ của Franchisee:** Thanh toán đầy đủ và đúng hạn các khoản phí theo Hợp đồng Nhượng quyền (phí ban đầu, phí bản quyền hàng tháng, phí marketing).
 *   **Điều 5. Chuỗi cung ứng:**
     *   Franchisee được khuyến khích và ưu tiên nhập phụ tùng từ chuỗi cung ứng tập trung của Franchisor để đảm bảo chất lượng và giá cạnh tranh.
@@ -170,7 +183,7 @@
 
 #### **3.1. Lời nói đầu và Giá trị Cốt lõi**
 
-> Bộ Quy tắc này là kim chỉ nam cho mọi suy nghĩ và hành động của mỗi thành viên trong đại gia đình [Tên Công ty], từ Ban Lãnh đạo đến mỗi nhân viên tại các điểm dịch vụ. Chúng ta cùng nhau xây dựng một thương hiệu dựa trên sự tin cậy, cam kết trở thành **"Đối tác Tin cậy cho Xế yêu"** của mọi khách hàng.
+> Bộ Quy tắc này là kim chỉ nam cho mọi suy nghĩ và hành động của mỗi thành viên trong đại gia đình 1CAR, từ Ban Lãnh đạo đến mỗi nhân viên tại các điểm dịch vụ. Chúng ta cùng nhau xây dựng một thương hiệu dựa trên sự tin cậy, cam kết **"Sửa xe ở 1CAR, rinh an tâm về nhà"** của mọi khách hàng.
 
 **Ba giá trị cốt lõi của chúng ta là:**
 
@@ -206,5 +219,5 @@
 
 *(Ký tên và đóng dấu)*
 
-**[Tên Chủ tịch HĐQT]**
+**[Chủ tịch HĐQT]**
 ---

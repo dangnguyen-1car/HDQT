@@ -19,8 +19,8 @@
 
 | Kênh Đặt hẹn | Các bước Thực hiện | Ghi chú & Công cụ |
 | :--- | :--- | :--- |
-| **Điện thoại** | 1. **Chào hỏi:** Theo kịch bản chuẩn: *"Dịch vụ [Tên Garage], xin nghe!"*. <br> 2. **Ghi nhận:** Tên KH, SĐT, Biển số xe, Dòng xe, Yêu cầu dịch vụ. <br> 3. **Tư vấn lịch hẹn:** Đề xuất khung giờ trống và xác nhận với khách. <br> 4. **Tạo lịch hẹn:** Nhập thông tin vào hệ thống **CRM/GMS**. <br> 5. **Xác nhận:** Gửi tin nhắn SMS/Zalo xác nhận lịch hẹn cho khách. | - Sử dụng hệ thống CRM/GMS. <br> - Giọng nói rõ ràng, thái độ thân thiện. |
-| **App/Website** | 1. **Hệ thống tự động:** Khách hàng tự chọn loại dịch vụ, khung giờ. <br> 2. **Xác nhận tự động:** Hệ thống CRM/GMS tự động ghi nhận và gửi xác nhận cho khách. <br> 3. **Kiểm tra:** Cố vấn Dịch vụ (CVDV) kiểm tra lịch hẹn mới trên hệ thống vào đầu mỗi ca làm việc. | - Đảm bảo hệ thống hoạt động ổn định. |
+| **Điện thoại** | 1. **Chào hỏi:** Theo kịch bản chuẩn: *"1CAR, Xin chào!"*. <br> 2. **Ghi nhận:** Tên KH, SĐT, Biển số xe, Dòng xe, Yêu cầu dịch vụ. <br> 3. **Tư vấn lịch hẹn:** Đề xuất khung giờ trống và xác nhận với khách. <br> 4. **Tạo lịch hẹn:** Nhập thông tin vào hệ thống **CRM/IGMS**. <br> 5. **Xác nhận:** Gửi tin nhắn SMS/Zalo xác nhận lịch hẹn cho khách. | - Sử dụng hệ thống CRM/IGMS. <br> - Giọng nói rõ ràng, thái độ thân thiện. |
+| **App/Website** | 1. **Hệ thống tự động:** Khách hàng tự chọn loại dịch vụ, khung giờ. <br> 2. **Xác nhận tự động:** Hệ thống CRM/IGMS tự động ghi nhận và gửi xác nhận cho khách. <br> 3. **Kiểm tra:** Cố vấn Dịch vụ (CVDV) kiểm tra lịch hẹn mới trên hệ thống vào đầu mỗi ca làm việc. | - Đảm bảo hệ thống hoạt động ổn định. |
 | **Chuẩn bị Tiếp đón** | - **Trước giờ hẹn 15 phút:** CVDV kiểm tra lại thông tin khách hàng và lịch sử dịch vụ của xe trên CRM. <br> - Chuẩn bị sẵn sàng Phiếu Tiếp nhận xe và máy tính bảng. <br> - Đảm bảo khu vực tiếp đón sạch sẽ, gọn gàng. | - Thể hiện sự chủ động và tôn trọng khách hàng. |
 
 ---
@@ -50,7 +50,7 @@
     | 11 | **Dụng cụ theo xe** | Con đội, bộ đồ nghề cơ bản. |
     | 12 | **Quét lỗi bằng máy chẩn đoán** | Cắm máy và đọc các mã lỗi sơ bộ (nếu cần). |
 4.  **Lập Phiếu Tiếp nhận:** CVDV hoàn tất phiếu, ghi rõ các yêu cầu của khách và tình trạng xe đã kiểm tra. Mời khách ký xác nhận.
-5.  **Bàn giao cho Kỹ thuật viên (KTV):** CVDV tạo **Lệnh Sửa chữa (Job Card)** trên GMS và bàn giao xe cùng Lệnh Sửa chữa cho Tổ trưởng Kỹ thuật.
+5.  **Bàn giao cho Kỹ thuật viên (KTV):** CVDV tạo **Lệnh Sửa chữa (Job Card)** trên IGMS và bàn giao xe cùng Lệnh Sửa chữa cho Tổ trưởng Kỹ thuật.
 6.  **Chẩn đoán chuyên sâu:** KTV thực hiện chẩn đoán chi tiết dựa trên yêu cầu và báo cáo lại kết quả cho CVDV.
 
 ---
@@ -59,7 +59,7 @@
 
 **Mục đích:** Đảm bảo khách hàng hiểu rõ tình trạng xe, các phương án khắc phục và chi phí một cách minh bạch tuyệt đối.
 
-1.  **Lập báo giá chi tiết:** Dựa trên kết quả chẩn đoán của KTV, CVDV lập báo giá trên GMS, bao gồm 3 phần rõ ràng:
+1.  **Lập báo giá chi tiết:** Dựa trên kết quả chẩn đoán của KTV, CVDV lập báo giá trên IGMS, bao gồm 3 phần rõ ràng:
     -   **Phụ tùng:** Tên, mã, đơn giá, số lượng, nguồn gốc (OEM, OES, Aftermarket đã được kiểm định).
     -   **Công lao động:** Tên hạng mục công việc, định mức giờ công, đơn giá.
     -   **Vật tư phụ:** Dầu, mỡ, hóa chất... (nếu có).
@@ -69,8 +69,8 @@
     -   Đưa ra các phương án (nếu có) để khách hàng lựa chọn (VD: sửa chữa hay thay mới, dùng phụ tùng OEM hay OES).
 3.  **Nhận phê duyệt:**
     -   **Tuyệt đối không thực hiện bất kỳ hạng mục nào chưa được khách hàng phê duyệt.**
-    -   Khách hàng có thể phê duyệt qua điện thoại (cuộc gọi được ghi âm và ghi chú vào GMS), ký trực tiếp trên báo giá, hoặc xác nhận qua App/Zalo.
-    -   Lưu lại bằng chứng phê duyệt trong hệ thống GMS.
+    -   Khách hàng có thể phê duyệt qua điện thoại (cuộc gọi được ghi âm và ghi chú vào IGMS), ký trực tiếp trên báo giá, hoặc xác nhận qua App/Zalo.
+    -   Lưu lại bằng chứng phê duyệt trong hệ thống IGMS.
 
 ---
 
@@ -79,12 +79,12 @@
 **Mục đích:** Thực hiện công việc sửa chữa đúng tiêu chuẩn kỹ thuật, đảm bảo an toàn và chất lượng.
 
 1.  **Phân công KTV:** Tổ trưởng phân công KTV có năng lực phù hợp với hạng mục công việc.
-2.  **Lấy phụ tùng:** KTV mang Lệnh Sửa chữa đến kho, nhân viên kho xuất phụ tùng dựa trên lệnh và cập nhật vào hệ thống GMS/ERP theo thời gian thực (FIFO).
+2.  **Lấy phụ tùng:** KTV mang Lệnh Sửa chữa đến kho, nhân viên kho xuất phụ tùng dựa trên lệnh và cập nhật vào hệ thống IGMS/ERP theo thời gian thực (FIFO).
 3.  **Thực hiện công việc:**
     -   KTV tuân thủ nghiêm ngặt các tiêu chuẩn kỹ thuật đã được đào tạo.
     -   Sử dụng đúng công cụ, dụng cụ chuyên dụng.
     -   Giữ gìn vệ sinh khu vực làm việc và trên xe của khách (sử dụng bọc ghế, bọc vô-lăng).
-4.  **Ghi nhận nhật ký công việc:** KTV cập nhật tiến độ, các vấn đề phát sinh (nếu có) vào Lệnh Sửa chữa trên GMS. Nếu có phát sinh ngoài báo giá, phải dừng lại và báo cho CVDV để thực hiện lại **Quy trình 3**.
+4.  **Ghi nhận nhật ký công việc:** KTV cập nhật tiến độ, các vấn đề phát sinh (nếu có) vào Lệnh Sửa chữa trên IGMS. Nếu có phát sinh ngoài báo giá, phải dừng lại và báo cho CVDV để thực hiện lại **Quy trình 3**.
 
 ---
 
@@ -152,7 +152,7 @@
 | **Module 1: Văn hóa & Giá trị** | - Lịch sử hình thành, tầm nhìn, sứ mệnh của chuỗi. <br> - Giải thích sâu về 3 giá trị cốt lõi: **Minh bạch, Chuyên nghiệp, Nhất quán**. <br> - Định vị thương hiệu **"Đối tác Tin cậy cho Xế yêu"**. | Giúp nhân viên mới hiểu và thấm nhuần DNA của công ty. |
 | **Module 2: Quy định Chung** | - Bộ quy tắc ứng xử và đạo đức kinh doanh. <br> - Nội quy lao động, chính sách nhân sự (nghỉ phép, lương thưởng...). <br> - Quy định về An toàn lao động, PCCC, và bảo vệ môi trường. | Đảm bảo tuân thủ và ý thức trách nhiệm. |
 | **Module 3: Quy trình Dịch vụ** | - Tổng quan về Sổ tay Vận hành Tiêu chuẩn (SOPs). <br> - Chi tiết về **Quy trình Dịch vụ 7 bước** và vai trò của từng vị trí trong quy trình. | Xây dựng tư duy lấy khách hàng làm trung tâm. |
-| **Module 4: Hệ thống Công nghệ** | - Giới thiệu và hướng dẫn sử dụng cơ bản các hệ thống: GMS, CRM, ERP. | Giúp nhân viên làm quen với công cụ làm việc hàng ngày. |
+| **Module 4: Hệ thống Công nghệ** | - Giới thiệu và hướng dẫn sử dụng cơ bản các hệ thống: IGMS, CRM, ERP. | Giúp nhân viên làm quen với công cụ làm việc hàng ngày. |
 
 ---
 

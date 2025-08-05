@@ -21,7 +21,7 @@ Sự thành công của chuỗi phụ thuộc vào việc xây dựng một thư
 **Các khuyến nghị trọng tâm:**
 1.  **Mô hình tăng trưởng hỗn hợp:** Kết hợp giữa các trung tâm dịch vụ do công ty sở hữu (COCO - Company-Owned, Company-Operated) tại các thành phố lớn để xây dựng chuẩn mực, và mô hình nhượng quyền (Franchise) có chọn lọc để mở rộng quy mô nhanh chóng.
 2.  **Chuẩn hóa vận hành tuyệt đối:** Triển khai hệ thống Quy trình Vận hành Chuẩn (SOPs) thống nhất trên toàn chuỗi, từ tiếp nhận xe đến bàn giao và chăm sóc khách hàng.
-3.  **Đầu tư nền tảng công nghệ hợp nhất:** Xây dựng một hệ sinh thái công nghệ tích hợp bao gồm ERP, CRM và Phần mềm Quản lý Garage (GMS) để đảm bảo hiệu quả vận hành, quản lý dữ liệu và trải nghiệm khách hàng vượt trội.
+3.  **Đầu tư nền tảng công nghệ hợp nhất:** Xây dựng một hệ sinh thái công nghệ tích hợp bao gồm ERP, CRM và Phần mềm Quản lý Garage (IGMS) để đảm bảo hiệu quả vận hành, quản lý dữ liệu và trải nghiệm khách hàng vượt trội.
 4.  **Quản trị rủi ro chủ động:** Tập trung vào các rủi ro chính là sự thiếu nhất quán về chất lượng dịch vụ, gián đoạn chuỗi cung ứng và các thách thức pháp lý.
 
 Bản ghi nhớ này sẽ là tài liệu nền tảng để xây dựng chi tiết các chính sách, quy trình và cấu trúc quản trị trong giai đoạn tiếp theo.
@@ -33,9 +33,9 @@ Mục tiêu dài hạn là thiết lập một chuỗi garage dẫn đầu thị
 | Hạng mục | Định hướng Chiến lược | Diễn giải |
 | :--- | :--- | :--- |
 | **Mô hình Kinh doanh** | Chuỗi dịch vụ sửa chữa, bảo dưỡng ô tô tiêu chuẩn cao. | Tập trung vào các dòng xe phổ thông đã hết hạn bảo hành chính hãng. Cung cấp dịch vụ toàn diện từ bảo dưỡng định kỳ, sửa chữa máy-gầm-điện, đến chăm sóc xe. |
-| **Định vị Thương hiệu** | **"Đối tác Tin cậy cho Xế yêu"** | Xây dựng hình ảnh một chuỗi garage *Uy tín - Minh bạch - Chuyên nghiệp*. Cam kết báo giá rõ ràng, phụ tùng chính hãng/chất lượng cao, và quy trình tư vấn chuyên nghiệp. |
+| **Định vị Thương hiệu** | **"Sửa xe ở 1CAR, rinh an tâm về nhà"** | Xây dựng hình ảnh một chuỗi garage *Uy tín - Minh bạch - Chuyên nghiệp*. Cam kết báo giá rõ ràng, phụ tùng chính hãng/chất lượng cao, và quy trình tư vấn chuyên nghiệp. |
 | **Mục tiêu Thị phần** | Trở thành **top 3 chuỗi garage lớn nhất Việt Nam** (về số lượng chi nhánh và doanh thu) trong vòng 5 năm. | Đạt 50+ điểm dịch vụ tại các tỉnh/thành phố trọng điểm trên toàn quốc. |
-| **Chiến lược Tăng trưởng** | Áp dụng mô hình tăng trưởng hai giai đoạn: <br> 1. **Giai đoạn 1 (Nền tảng):** Xây dựng 5-7 trung tâm dịch vụ mẫu (COCO) tại Hà Nội & TP.HCM. <br> 2. **Giai đoạn 2 (Mở rộng):** Triển khai mô hình nhượng quyền có kiểm soát chặt chẽ. | Các trung tâm COCO đóng vai trò là "Center of Excellence" - trung tâm đào tạo, R&D và thiết lập tiêu chuẩn. Mô hình nhượng quyền giúp tăng tốc độ phủ sóng nhưng phải kèm theo các điều kiện khắt khe về vốn, cơ sở vật chất và tuân thủ SOPs. |
+| **Chiến lược Tăng trưởng** | Áp dụng mô hình tăng trưởng hai giai đoạn: <br> 1. **Giai đoạn 1 (Nền tảng):** Xây dựng 5-7 trung tâm dịch vụ mẫu (COCO) tại TP.HCM & khu vực lân cận. <br> 2. **Giai đoạn 2 (Mở rộng):** Triển khai mô hình nhượng quyền có kiểm soát chặt chẽ. | Các trung tâm COCO đóng vai trò là "Center of Excellence" - trung tâm đào tạo, R&D và thiết lập tiêu chuẩn. Mô hình nhượng quyền giúp tăng tốc độ phủ sóng nhưng phải kèm theo các điều kiện khắt khe về vốn, cơ sở vật chất và tuân thủ SOPs. |
 
 ### 3. Khung Yêu cầu Pháp lý và Tuân thủ
 
@@ -102,7 +102,7 @@ Công nghệ là xương sống của mô hình kinh doanh hiện đại, giúp 
     *   **Mục đích:** Quản lý toàn bộ dữ liệu và tương tác với khách hàng.
     *   **Tính năng chính:** Lưu trữ lịch sử dịch vụ của từng xe, phân khúc khách hàng, triển khai các chiến dịch marketing và loyalty, quản lý phản hồi và khiếu nại.
 
-*   **Phần mềm Quản lý Garage (GMS - Garage Management Software):**
+*   **Phần mềm Quản lý Garage (IGMS - Integrated Garage Management System):**
     *   **Mục đích:** Công cụ vận hành chuyên dụng tại mỗi chi nhánh.
     *   **Tính năng chính:** Đặt lịch hẹn, tạo lệnh sửa chữa (job card), phân công kỹ thuật viên, theo dõi tiến độ công việc, quản lý phụ tùng tại chi nhánh, và xuất hóa đơn.
 
@@ -110,4 +110,4 @@ Công nghệ là xương sống của mô hình kinh doanh hiện đại, giúp 
     *   **Mục đích:** Cung cấp kênh giao tiếp hiện đại và tiện lợi.
     *   **Khuyến nghị:** Phát triển **Ứng dụng Di động (Mobile App)** cho phép khách hàng đặt lịch, theo dõi tiến độ sửa chữa, xem lịch sử dịch vụ, nhận báo giá, thanh toán và nhận các ưu đãi.
 
-> **Kiến trúc đề xuất:** Ba hệ thống ERP, CRM, và GMS cần được tích hợp chặt chẽ với nhau để tạo thành một dòng chảy dữ liệu thông suốt, từ lúc khách hàng đặt hẹn đến khi hoàn tất báo cáo tài chính.
+> **Kiến trúc đề xuất:** Ba hệ thống ERP, CRM, và IGMS cần được tích hợp chặt chẽ với nhau để tạo thành một dòng chảy dữ liệu thông suốt, từ lúc khách hàng đặt hẹn đến khi hoàn tất báo cáo tài chính.

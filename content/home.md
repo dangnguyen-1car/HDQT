@@ -1,8 +1,8 @@
-# Chào mừng đến với Cổng Thông Tin Quản Trị Doanh Nghiệp
+## Cổng Thông Tin Quản Trị Doanh Nghiệp 1CAR
 
 **Kính gửi Hội đồng Quản trị,**
 
-Chào mừng quý vị đến với **Cổng Thông Tin Quản Trị Doanh Nghiệp** – không gian lưu trữ và tra cứu tập trung, được thiết kế đặc biệt để phục vụ công tác quản lý và hoạch định chiến lược của chuỗi garage ô tô.
+Chào mừng quý vị đến với **Cổng Thông Tin Quản Trị Doanh Nghiệp 1CAR** – không gian lưu trữ và tra cứu tập trung, được thiết kế đặc biệt để phục vụ công tác quản lý và hoạch định chiến lược của chuỗi garage ô tô.
 
 ### Mục đích
 
@@ -13,7 +13,7 @@ Cổng thông tin này được xây dựng với mục tiêu:
 
 ### Hướng dẫn sử dụng
 
-Vui lòng sử dụng thanh điều hướng bên trái để truy cập vào các nội dung chi tiết của từng văn kiện cốt lõi, bao gồm:
+Vui lòng sử dụng thanh điều hướng bên trái (desktop) hoặc biểu tượng menu góc trái bên trên (mobile) để truy cập vào các nội dung chi tiết của từng văn kiện cốt lõi, bao gồm:
 
 -   **Định hướng Chiến lược:** Phân tích nền tảng và lộ trình phát triển của chuỗi.
 -   **Nền tảng Pháp lý:** Điều lệ công ty và các quy chế hoạt động của HĐQT.

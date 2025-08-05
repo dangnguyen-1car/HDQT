@@ -162,12 +162,17 @@ body {
         transform: translateX(0);
     }
     .main-panel {
-        padding: 1rem;
+        padding: 0rem;
     }
-    .main-header {
+    .main-header {        
+        position: sticky;
+        top: 0;
+        z-index: 50;
+        background-color: var(--bg-body);         
         padding-bottom: 1rem;
         margin-bottom: 1rem;
-    }
+    }    
+
     #page-title {
         font-size: 1.5rem;
     }
@@ -199,4 +204,10 @@ body {
 .prose p, 
 .prose li {
     line-height: 1.75 !important; /* Tăng khoảng cách giữa các dòng trong cùng một đoạn văn */
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

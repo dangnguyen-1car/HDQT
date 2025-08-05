@@ -10,7 +10,7 @@
 
 #### **1.1. Triết lý Quản trị Con người**
 
-> Tại [Tên Công ty], chúng tôi tin rằng con người là tài sản quý giá nhất, là nền tảng tạo nên sự khác biệt và thành công bền vững. Triết lý quản trị nhân sự của chúng tôi không chỉ là quản lý, mà là **kiến tạo và phát triển đội ngũ**, những người mang trong mình sứ mệnh trở thành **"Đối tác Tin cậy cho Xế yêu"** của mọi khách hàng. Mỗi nhân viên là một đại sứ thương hiệu, thể hiện các giá trị cốt lõi của Công ty trong từng hành động.
+> Tại 1CAR Gara, chúng tôi tin rằng con người là tài sản quý giá nhất, là nền tảng tạo nên sự khác biệt và thành công bền vững. Triết lý quản trị nhân sự của chúng tôi không chỉ là quản lý, mà là **kiến tạo và phát triển đội ngũ**, những người mang trong mình sứ mệnh trở thành **"Đối tác Tin cậy"** của mọi khách hàng. Mỗi nhân viên là một đại sứ thương hiệu, thể hiện các giá trị cốt lõi của Công ty trong từng hành động.
 
 #### **1.2. Nguyên tắc Quản trị Nhân sự Cốt lõi**
 
@@ -39,11 +39,11 @@ Quy trình tuyển dụng được áp dụng thống nhất nhằm đảm bảo
 
 | Vị trí | Khối | Yêu cầu Bắt buộc | Tiêu chí Ưu tiên |
 | :--- | :--- | :--- | :--- |
-| **Quản lý Garage** | Garage | - Tối thiểu 3 năm kinh nghiệm quản lý xưởng dịch vụ ô tô.<br>- Hiểu biết sâu về quy trình dịch vụ, kỹ thuật ô tô.<br>- Kỹ năng lãnh đạo, lập kế hoạch kinh doanh và quản lý P&L. | - Có kinh nghiệm làm việc tại các hãng xe hoặc chuỗi dịch vụ lớn.<br>- Kỹ năng phân tích dữ liệu và sử dụng thành thạo GMS/ERP. |
+| **Quản lý Garage** | Garage | - Tối thiểu 3 năm kinh nghiệm quản lý xưởng dịch vụ ô tô.<br>- Hiểu biết sâu về quy trình dịch vụ, kỹ thuật ô tô.<br>- Kỹ năng lãnh đạo, lập kế hoạch kinh doanh và quản lý P&L. | - Có kinh nghiệm làm việc tại các hãng xe hoặc chuỗi dịch vụ lớn.<br>- Kỹ năng phân tích dữ liệu và sử dụng thành thạo IGMS/ERP. |
 | **Cố vấn Dịch vụ** | Garage | - Tối thiểu 1 năm kinh nghiệm ở vị trí tương đương.<br>- Kỹ năng giao tiếp, tư vấn, bán hàng xuất sắc.<br>- Am hiểu cơ bản về kỹ thuật ô tô. | - Có chứng chỉ về dịch vụ khách hàng.<br>- Ngoại hình chuyên nghiệp, thái độ tích cực, hướng đến khách hàng. |
 | **Tổ trưởng Kỹ thuật** | Garage | - Tối thiểu 5 năm kinh nghiệm sửa chữa ô tô đa dòng xe.<br>- Nắm vững kỹ năng chẩn đoán bằng máy móc hiện đại.<br>- Có khả năng hướng dẫn, đào tạo và kiểm soát chất lượng (QC). | - Có chứng chỉ đào tạo từ các hãng xe (VD: Toyota, Ford, Hyundai).<br>- Kỹ năng giải quyết vấn đề phức tạp. |
-| **Chuyên viên Mua hàng** | Văn phòng | - Tối thiểu 2 năm kinh nghiệm mua hàng, ưu tiên ngành phụ tùng ô tô.<br>- Kỹ năng đàm phán, phân tích và quản lý nhà cung cấp. | - Hiểu biết về thị trường phụ tùng OEM, OES.<br>- Kinh nghiệm sử dụng hệ thống ERP. |
-| **Chuyên viên PT Mạng lưới** | Văn phòng | - Kinh nghiệm trong lĩnh vực bán lẻ, phát triển chuỗi, hoặc nhượng quyền.<br>- Kỹ năng phân tích thị trường, thẩm định mặt bằng và đối tác. | - Am hiểu về pháp lý liên quan đến nhượng quyền thương mại.<br>- Kỹ năng giao tiếp và xây dựng mối quan hệ tốt. |
+| **Chuyên viên Mua hàng** | Văn phòng chính (HQ) | - Tối thiểu 2 năm kinh nghiệm mua hàng, ưu tiên ngành phụ tùng ô tô.<br>- Kỹ năng đàm phán, phân tích và quản lý nhà cung cấp. | - Hiểu biết về thị trường phụ tùng OEM, OES.<br>- Kinh nghiệm sử dụng hệ thống ERP. |
+| **Chuyên viên PT Mạng lưới** | Văn phòng chính (HQ) | - Kinh nghiệm trong lĩnh vực bán lẻ, phát triển chuỗi, hoặc nhượng quyền.<br>- Kỹ năng phân tích thị trường, thẩm định mặt bằng và đối tác. | - Am hiểu về pháp lý liên quan đến nhượng quyền thương mại.<br>- Kỹ năng giao tiếp và xây dựng mối quan hệ tốt. |
 
 ### **3. Chính sách Đào tạo và Phát triển**
 
@@ -55,7 +55,7 @@ Các chương trình đào tạo được thiết kế theo khung năng lực c�
 | **Đào tạo Kỹ thuật & Sản phẩm** | Kỹ thuật viên (KTV), Cố vấn Dịch vụ (CVDV) | - Quy trình chẩn đoán & sửa chữa theo tiêu chuẩn.<br>- Cập nhật công nghệ mới trên các dòng xe.<br>- Sử dụng thiết bị chẩn đoán, công cụ chuyên dụng.<br>- Kiến thức về các dòng sản phẩm phụ tùng, dầu nhớt. | Tại trung tâm đào tạo của HQ, các buổi workshop tại Garage | KTV được cấp chứng chỉ nội bộ theo các bậc để phát triển sự nghiệp. |
 | **Đào tạo Kỹ năng Dịch vụ** | Cố vấn Dịch vụ, Quản lý Garage | - Kỹ năng giao tiếp và xử lý tình huống với khách hàng.<br>- Kỹ năng bán hàng gia tăng (up-sell, cross-sell).<br>- Quy trình xử lý khiếu nại chuyên nghiệp. | Đóng vai, workshop, học trực tuyến | Tập trung vào việc nâng cao chỉ số CSAT và NPS. |
 | **Đào tạo Năng lực Quản lý** | Cấp quản lý (Tổ trưởng, Quản lý Garage, Trưởng BP) | - Kỹ năng lãnh đạo và tạo động lực.<br>- Kỹ năng giao việc, ủy quyền và phản hồi.<br>- Quản lý hiệu suất và KPIs.<br>- Kiến thức tài chính cơ bản cho nhà quản lý. | Đào tạo tập trung, coaching 1-1 | Là điều kiện cần để được bổ nhiệm vào các vị trí quản lý. |
-| **Chương trình Bắt buộc cho Đối tác Nhượng quyền (FOFO)** | Quản lý Garage, CVDV, Tổ trưởng Kỹ thuật của đối tác | Rút gọn từ các chương trình trên, tập trung vào: <br>- Văn hóa và Thương hiệu.<br>- Quy trình dịch vụ 8 bước.<br>- Sử dụng hệ thống GMS/CRM. | Đào tạo tập trung tại HQ | Bắt buộc phải có chứng chỉ hoàn thành trước khi khai trương. |
+| **Chương trình Bắt buộc cho Đối tác Nhượng quyền (FOFO)** | Quản lý Garage, CVDV, Tổ trưởng Kỹ thuật của đối tác | Rút gọn từ các chương trình trên, tập trung vào: <br>- Văn hóa và Thương hiệu.<br>- Quy trình dịch vụ 8 bước.<br>- Sử dụng hệ thống IGMS/CRM. | Đào tạo tập trung tại HQ | Bắt buộc phải có chứng chỉ hoàn thành trước khi khai trương. |
 
 ### **4. Hệ thống Đánh giá Hiệu suất**
 
@@ -69,8 +69,8 @@ Hệ thống đánh giá hiệu suất được thiết kế để đo lường 
 | Vị trí | KPIs Chính | Nguồn dữ liệu |
 | :--- | :--- | :--- |
 | **Quản lý Garage** | - Doanh thu & Lợi nhuận của Garage so với chỉ tiêu.<br>- Chỉ số hài lòng của khách hàng (CSAT, NPS).<br>- Tỷ lệ giữ chân nhân viên. | Hệ thống ERP, CRM |
-| **Cố vấn Dịch vụ** | - Doanh thu trung bình trên mỗi lượt xe.<br>- Tỷ lệ bán thêm dịch vụ/sản phẩm thành công.<br>- Chỉ số CSAT cá nhân (qua khảo sát). | Hệ thống GMS, CRM |
-| **Kỹ thuật viên** | - Tỷ lệ sửa chữa thành công ngay lần đầu (First-Time Repair Rate).<br>- Thời gian hoàn thành công việc so với định mức.<br>- Số lượng lỗi phát sinh sau sửa chữa (comeback). | Hệ thống GMS, Báo cáo QC |
+| **Cố vấn Dịch vụ** | - Doanh thu trung bình trên mỗi lượt xe.<br>- Tỷ lệ bán thêm dịch vụ/sản phẩm thành công.<br>- Chỉ số CSAT cá nhân (qua khảo sát). | Hệ thống IGMS, CRM |
+| **Kỹ thuật viên** | - Tỷ lệ sửa chữa thành công ngay lần đầu (First-Time Repair Rate).<br>- Thời gian hoàn thành công việc so với định mức.<br>- Số lượng lỗi phát sinh sau sửa chữa (comeback). | Hệ thống IGMS, Báo cáo QC |
 | **Nhân viên Khối VP** | - Mức độ hoàn thành mục tiêu công việc của phòng ban/cá nhân.<br>- Mức độ tuân thủ deadline và chất lượng dự án. | Báo cáo công việc, đánh giá của quản lý |
 
 ### **5. Chính sách Lương, Thưởng và Phúc lợi**
@@ -117,7 +117,7 @@ Các hoạt động cụ thể được triển khai để biến các giá tr�
 *   **Giao tiếp & Truyền thông Nội bộ:**
     *   **CEO Town Hall (Họp Toàn thể):** Tổ chức hàng quý để CEO chia sẻ về kết quả kinh doanh, chiến lược sắp tới và trả lời câu hỏi của nhân viên.
     *   **Bản tin Nội bộ "The Engine":** Phát hành hàng tháng với các nội dung: câu chuyện thành công của garage, vinh danh nhân viên, cập nhật chính sách mới.
-    *   **Nền tảng Giao tiếp Nội bộ (Workplace/Slack):** Kênh giao tiếp nhanh chóng, chia sẻ kiến thức và tăng cường tương tác giữa các bộ phận.
+    *   **Nền tảng Giao tiếp Nội bộ (Workplace):** Kênh giao tiếp nhanh chóng, chia sẻ kiến thức và tăng cường tương tác giữa các bộ phận.
 *   **Chương trình Ghi nhận & Tôn vinh:**
     *   **"Ngôi sao của Tháng/Quý":** Vinh danh các cá nhân, tập thể có thành tích xuất sắc dựa trên KPIs và việc thể hiện các giá trị cốt lõi.
         *   Giải thưởng *MINH BẠCH*: Cho Cố vấn Dịch vụ có phản hồi tốt nhất về tính rõ ràng.
