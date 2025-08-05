@@ -23,10 +23,10 @@ Vui lòng sử dụng thanh điều hướng bên trái (desktop) hoặc biểu 
 -   **Quản trị Nhân sự & Văn hóa:** Chiến lược phát triển con người và văn hóa doanh nghiệp.
 -   **SOPs & Đào tạo:** Sổ tay vận hành tiêu chuẩn và chương trình đào tạo chi tiết.
 
-### Lưu ý
-
-Đây **KHÔNG** phải là các văn bản cụ thể nhưng **LÀ KHUNG QUẢN TRỊ TOÀN DIỆN** để tổng hợp và xây dựng các văn bản cuối cùng, sẵn sàng cho giai đoạn phát triển và mở rộng quy mô của công ty.
-
-Các văn bản sẽ được xây dựng trên bộ khung này và **KHÔNG CẦN LẤY Ý KIẾN** lại nếu trùng chính xác với quan điểm đã nêu trong khung
+> ### Lưu ý
+>
+> Đây **KHÔNG** phải là các văn bản cụ thể nhưng **LÀ KHUNG QUẢN TRỊ TOÀN DIỆN** để tổng hợp và xây dựng các văn bản cuối cùng, sẵn sàng cho giai đoạn phát triển và mở rộng quy mô của công ty.
+>
+> Các văn bản sẽ được xây dựng trên bộ khung này và **KHÔNG CẦN LẤY Ý KIẾN** lại nếu trùng chính xác với quan điểm đã nêu trong khung
 
 Trân trọng.
