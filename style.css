@@ -178,3 +178,25 @@ body {
         padding: 1rem;
     }
 }
+
+/* --- Custom Styles to Improve Readability --- */
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4,
+.prose p,
+.prose ul,
+.prose ol,
+.prose table,
+.prose blockquote {
+    margin-bottom: 1.5rem !important; /* Tăng khoảng cách dưới cho các khối nội dung */
+}
+
+.prose li {
+    margin-bottom: 0.5rem !important; /* Tăng khoảng cách nhẹ giữa các mục trong danh sách */
+}
+
+.prose p, 
+.prose li {
+    line-height: 1.75 !important; /* Tăng khoảng cách giữa các dòng trong cùng một đoạn văn */
+}
