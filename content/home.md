@@ -1,5 +1,6 @@
 ## Cổng Thông Tin Quản Trị Doanh Nghiệp 1CAR
 
+
 **Kính gửi Hội đồng Quản trị,**
 
 Chào mừng quý vị đến với **Cổng Thông Tin Quản Trị Doanh Nghiệp 1CAR** – không gian lưu trữ và tra cứu tập trung, được thiết kế đặc biệt để phục vụ công tác quản lý và hoạch định chiến lược của chuỗi garage ô tô.

@@ -1,5 +1,5 @@
 **KHUNG QUẢN TRỊ TÀI CHÍNH VÀ KIỂM SOÁT NỘI BỘ**
----
+
 **Mã tài liệu:** QTTC-001  
 **Ngày ban hành:** 08/05/2025  
 **Cơ quan phê duyệt:** Hội đồng Quản trị

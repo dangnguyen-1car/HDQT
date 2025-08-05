@@ -1,5 +1,5 @@
 **KHUNG QUẢN TRỊ NHÂN SỰ VÀ PHÁT TRIỂN VĂN HÓA DOANH NGHIỆP**
----
+
 **Mã tài liệu:** QTNS-001  
 **Ngày ban hành:** 08/05/2025  
 **Cơ quan phê duyệt:** Hội đồng Quản trị
