@@ -1,5 +1,5 @@
 **BỘ TÀI LIỆU VẬN HÀNH VÀ ĐÀO TẠO CHUỖI GARAGE**
-***
+
 **Mã tài liệu:** VHDT-001  
 **Ngày ban hành:** 08/05/2025  
 **Cơ quan phê duyệt:** Ban Điều hành  
@@ -9,7 +9,7 @@
 
 ### **PHẦN 1: SỔ TAY VẬN HÀNH TIÊU CHUẨN (SOPs)**
 
-**Mục tiêu:** Sổ tay này quy định quy trình dịch vụ khách hàng thống nhất, áp dụng bắt buộc cho toàn bộ các điểm dịch vụ trong chuỗi (bao gồm cả mô hình COCO và FOFO). Mục đích là đảm bảo trải nghiệm khách hàng **Minh bạch - Chuyên nghiệp - Nhất quán**, hiện thực hóa định vị thương hiệu **"Đối tác Tin cậy cho Xế yêu"**.
+**Mục tiêu:** Sổ tay này quy định quy trình dịch vụ khách hàng thống nhất, áp dụng bắt buộc cho toàn bộ các điểm dịch vụ trong chuỗi (bao gồm cả mô hình COCO và FOFO). Mục đích là đảm bảo trải nghiệm khách hàng **Minh bạch - Chuyên nghiệp - Nhất quán**, hiện thực hóa định vị thương hiệu **"Số 1 về dịch vụ garage ô tô"**.
 
 ---
 

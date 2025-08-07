@@ -1,9 +1,8 @@
 **BẢN GHI NHỚ PHÂN TÍCH CHIẾN LƯỢC**
-***
 
 **Tới:** Hội đồng Quản trị và Ban Điều hành Dự án
 
-**Từ:** Chuyên gia Tư vấn Quản trị Cấp cao
+**Từ:** Nhóm soạn thảo
 
 **Ngày:** 08 tháng 05 năm 2025
 

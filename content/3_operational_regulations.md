@@ -1,8 +1,11 @@
-**TÀI LIỆU**
 **BỘ QUY CHẾ VẬN HÀNH NỘI BỘ**
-**CÔNG TY CỔ PHẦN 1CAR GARA**
 
----
+**Mã tài liệu:** QCNB-001  
+**Ngày ban hành:** 08/05/2025  
+**Cơ quan phê duyệt:** Ban Điều hành  
+**Phiên bản:** 1.0
+
+***
 
 **MỤC LỤC**
 
@@ -183,7 +186,7 @@
 
 #### **3.1. Lời nói đầu và Giá trị Cốt lõi**
 
-> Bộ Quy tắc này là kim chỉ nam cho mọi suy nghĩ và hành động của mỗi thành viên trong đại gia đình 1CAR, từ Ban Lãnh đạo đến mỗi nhân viên tại các điểm dịch vụ. Chúng ta cùng nhau xây dựng một thương hiệu dựa trên sự tin cậy, cam kết **"SSố 1 về dịch vụ garage ô tô"** của mọi khách hàng.
+> Bộ Quy tắc này là kim chỉ nam cho mọi suy nghĩ và hành động của mỗi thành viên trong đại gia đình 1CAR, từ Ban Lãnh đạo đến mỗi nhân viên tại các điểm dịch vụ. Chúng ta cùng nhau xây dựng một thương hiệu dựa trên sự tin cậy, cam kết **"Số 1 về dịch vụ garage ô tô"** của mọi khách hàng.
 
 **Ba giá trị cốt lõi của chúng ta là:**
 

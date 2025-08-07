@@ -3,6 +3,9 @@
 **Mã tài liệu:** QTTC-001  
 **Ngày ban hành:** 08/05/2025  
 **Cơ quan phê duyệt:** Hội đồng Quản trị
+**Phiên bản:** 1.0
+
+***
 
 ### **A. MỤC ĐÍCH VÀ NGUYÊN TẮC CHUNG**
 
