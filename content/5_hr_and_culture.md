@@ -3,6 +3,7 @@
 **Mã tài liệu:** QTNS-001  
 **Ngày ban hành:** 08/05/2025  
 **Cơ quan phê duyệt:** Hội đồng Quản trị
+**Phiên bản:** 1.0
 
 ---
 
@@ -10,7 +11,7 @@
 
 #### **1.1. Triết lý Quản trị Con người**
 
-> Tại 1CAR Gara, chúng tôi tin rằng con người là tài sản quý giá nhất, là nền tảng tạo nên sự khác biệt và thành công bền vững. Triết lý quản trị nhân sự của chúng tôi không chỉ là quản lý, mà là **kiến tạo và phát triển đội ngũ**, những người mang trong mình sứ mệnh trở thành **"Đối tác Tin cậy"** của mọi khách hàng. Mỗi nhân viên là một đại sứ thương hiệu, thể hiện các giá trị cốt lõi của Công ty trong từng hành động.
+> Tại 1CAR Gara, chúng tôi tin rằng con người là tài sản quý giá nhất, là nền tảng tạo nên sự khác biệt và thành công bền vững. Triết lý quản trị nhân sự của chúng tôi không chỉ là quản lý, mà là **kiến tạo và phát triển đội ngũ**, những người mang trong mình sứ mệnh trở thành đối tác **"Số 1 về dịch vụ garage ô tô"** của mọi khách hàng. Mỗi nhân viên là một đại sứ thương hiệu, thể hiện các giá trị cốt lõi của Công ty trong từng hành động.
 
 #### **1.2. Nguyên tắc Quản trị Nhân sự Cốt lõi**
 

@@ -113,7 +113,7 @@
 
 #### **2.1. Chính sách Vận hành Chung Toàn hệ thống**
 
-*   **Điều 1. Mục tiêu:** Thiết lập một tiêu chuẩn vận hành nhất quán, chuyên nghiệp trên toàn bộ mạng lưới garage của Công ty, nhằm mang lại trải nghiệm dịch vụ đồng bộ, chất lượng cao và củng cố giá trị thương hiệu **"Sửa xe ở 1CAR, rinh an tâm về nhà"**.
+*   **Điều 1. Mục tiêu:** Thiết lập một tiêu chuẩn vận hành nhất quán, chuyên nghiệp trên toàn bộ mạng lưới garage của Công ty, nhằm mang lại trải nghiệm dịch vụ đồng bộ, chất lượng cao và củng cố giá trị thương hiệu **"Số 1 về dịch vụ garage ô tô"**.
 *   **Điều 2. Phạm vi áp dụng:** Chính sách này là bắt buộc áp dụng cho tất cả các điểm dịch vụ thuộc hệ thống, bao gồm các trung tâm COCO và các đơn vị nhượng quyền FOFO.
 *   **Điều 3. Quy trình Vận hành Chuẩn (SOP) - 8 Bước Vàng:** Tất cả các điểm dịch vụ phải tuân thủ nghiêm ngặt quy trình 8 bước trong hành trình trải nghiệm của khách hàng:
 
@@ -183,7 +183,7 @@
 
 #### **3.1. Lời nói đầu và Giá trị Cốt lõi**
 
-> Bộ Quy tắc này là kim chỉ nam cho mọi suy nghĩ và hành động của mỗi thành viên trong đại gia đình 1CAR, từ Ban Lãnh đạo đến mỗi nhân viên tại các điểm dịch vụ. Chúng ta cùng nhau xây dựng một thương hiệu dựa trên sự tin cậy, cam kết **"Sửa xe ở 1CAR, rinh an tâm về nhà"** của mọi khách hàng.
+> Bộ Quy tắc này là kim chỉ nam cho mọi suy nghĩ và hành động của mỗi thành viên trong đại gia đình 1CAR, từ Ban Lãnh đạo đến mỗi nhân viên tại các điểm dịch vụ. Chúng ta cùng nhau xây dựng một thương hiệu dựa trên sự tin cậy, cam kết **"SSố 1 về dịch vụ garage ô tô"** của mọi khách hàng.
 
 **Ba giá trị cốt lõi của chúng ta là:**
 

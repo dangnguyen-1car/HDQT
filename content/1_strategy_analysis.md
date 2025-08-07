@@ -33,7 +33,7 @@ Mục tiêu dài hạn là thiết lập một chuỗi garage dẫn đầu thị
 | Hạng mục | Định hướng Chiến lược | Diễn giải |
 | :--- | :--- | :--- |
 | **Mô hình Kinh doanh** | Chuỗi dịch vụ sửa chữa, bảo dưỡng ô tô tiêu chuẩn cao. | Tập trung vào các dòng xe phổ thông đã hết hạn bảo hành chính hãng. Cung cấp dịch vụ toàn diện từ bảo dưỡng định kỳ, sửa chữa máy-gầm-điện, đến chăm sóc xe. |
-| **Định vị Thương hiệu** | **"Sửa xe ở 1CAR, rinh an tâm về nhà"** | Xây dựng hình ảnh một chuỗi garage *Uy tín - Minh bạch - Chuyên nghiệp*. Cam kết báo giá rõ ràng, phụ tùng chính hãng/chất lượng cao, và quy trình tư vấn chuyên nghiệp. |
+| **Định vị Thương hiệu** | **"Số 1 về dịch vụ garage ô tô"** | Xây dựng hình ảnh một chuỗi garage *Uy tín - Minh bạch - Chuyên nghiệp*. Cam kết báo giá rõ ràng, phụ tùng chính hãng/chất lượng cao, và quy trình tư vấn chuyên nghiệp. |
 | **Mục tiêu Thị phần** | Trở thành **top 3 chuỗi garage lớn nhất Việt Nam** (về số lượng chi nhánh và doanh thu) trong vòng 5 năm. | Đạt 50+ điểm dịch vụ tại các tỉnh/thành phố trọng điểm trên toàn quốc. |
 | **Chiến lược Tăng trưởng** | Áp dụng mô hình tăng trưởng hai giai đoạn: <br> 1. **Giai đoạn 1 (Nền tảng):** Xây dựng 5-7 trung tâm dịch vụ mẫu (COCO) tại TP.HCM & khu vực lân cận. <br> 2. **Giai đoạn 2 (Mở rộng):** Triển khai mô hình nhượng quyền có kiểm soát chặt chẽ. | Các trung tâm COCO đóng vai trò là "Center of Excellence" - trung tâm đào tạo, R&D và thiết lập tiêu chuẩn. Mô hình nhượng quyền giúp tăng tốc độ phủ sóng nhưng phải kèm theo các điều kiện khắt khe về vốn, cơ sở vật chất và tuân thủ SOPs. |
 

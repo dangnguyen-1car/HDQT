@@ -2,10 +2,6 @@
 
 **V/v: Thiết lập Khung Quản trị cho Chuỗi Dịch vụ Ô tô Toàn quốc**
 
-**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
-
-**Độc lập - Tự do - Hạnh phúc**
-
 ***
 
 ### **PHẦN 1: ĐIỀU LỆ CÔNG TY CỔ PHẦN 1CAR GARA**
