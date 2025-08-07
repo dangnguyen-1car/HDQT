@@ -31,15 +31,26 @@ document.addEventListener('DOMContentLoaded', () => {
             if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
             
             const markdown = await response.text();
-            // Lớp 'dark:prose-invert' sẽ tự động áp dụng do có class 'dark' trên body
+            // Kiểm tra theme: ưu tiên class 'dark' trên body, nếu không có thì kiểm tra hệ thống
+            const hasExplicitDark = document.body.classList.contains('dark');
+            const prefersSystemDark = !hasExplicitDark && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+            const isDark = hasExplicitDark || prefersSystemDark;
+            
+            const proseClasses = isDark ? 'prose prose-lg max-w-none dark:prose-invert' : 'prose prose-lg max-w-none';
+            
             const htmlContent = marked.parse(markdown);
-            contentArea.innerHTML = `<div class="prose prose-lg max-w-none dark:prose-invert">${htmlContent}</div>`;
+            contentArea.innerHTML = `<div class="${proseClasses}">${htmlContent}</div>`;
             
             const newTitle = pageTitles[pageKey] || 'Cổng Thông Tin 1CAR';
             pageTitleElement.textContent = newTitle;
             document.title = `${newTitle} - Cổng Quản Trị 1CAR`;
         } catch (error) {
-            contentArea.innerHTML = `<div class="prose dark:prose-invert"><h2>Lỗi tải nội dung</h2><p>${error.message}</p></div>`;
+            const hasExplicitDark = document.body.classList.contains('dark');
+            const prefersSystemDark = !hasExplicitDark && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+            const isDark = hasExplicitDark || prefersSystemDark;
+            
+            const proseClasses = isDark ? 'prose dark:prose-invert' : 'prose';
+            contentArea.innerHTML = `<div class="${proseClasses}"><h2>Lỗi tải nội dung</h2><p>${error.message}</p></div>`;
         }
     };
 
@@ -65,9 +76,32 @@ document.addEventListener('DOMContentLoaded', () => {
         sidebar.classList.toggle('visible');
     });
 
-    // --- KHỞI TẠO KHI TẢI TRANG ---
+    // --- LOGIC THEO DÕI THAY ĐỔI THEME HỆ THỐNG ---
+    
+    // Hàm cập nhật prose classes cho nội dung hiện tại
+    const updateCurrentContentTheme = () => {
+        const contentDiv = contentArea.querySelector('.prose');
+        if (contentDiv) {
+            const hasExplicitDark = document.body.classList.contains('dark');
+            const prefersSystemDark = !hasExplicitDark && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+            const isDark = hasExplicitDark || prefersSystemDark;
+            
+            contentDiv.className = isDark ? 'prose prose-lg max-w-none dark:prose-invert' : 'prose prose-lg max-w-none';
+        }
+    };
 
-    // Đã xóa toàn bộ logic chuyển đổi theme
+    // Theo dõi thay đổi theme hệ thống
+    if (window.matchMedia) {
+        const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+        mediaQuery.addEventListener('change', () => {
+            // Chỉ cập nhật nếu không có class .dark được set thủ công
+            if (!document.body.classList.contains('dark')) {
+                updateCurrentContentTheme();
+            }
+        });
+    }
+
+    // --- KHỞI TẠO KHI TẢI TRANG ---
 
     // Tải trang mặc định
     if (defaultPageLink) {

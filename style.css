@@ -1,5 +1,37 @@
-/* --- CSS Variables - CHỈ CÓ THEME TỐI --- */
+/* --- CSS Variables - Light Theme (Default) --- */
 :root {
+    --bg-body: #ffffff;
+    --bg-sidebar: #f8f9fa;
+    --bg-content: #ffffff;
+    --text-primary: #1f2937;
+    --text-secondary: #374151;
+    --text-subtle: #6b7280;
+    --border-color: #e5e7eb;
+    --primary-color: #FF6600;
+    --primary-color-hover: #e65c00;
+    --nav-hover-bg: #f3f4f6;
+    --shadow-color: rgba(0, 0, 0, 0.1);
+}
+
+/* --- CSS Variables - Dark Theme (tự động theo hệ thống) --- */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-body: #121212;
+        --bg-sidebar: #1e1e1e;
+        --bg-content: #1e1e1e;
+        --text-primary: #e5e7eb;
+        --text-secondary: #d1d5db;
+        --text-subtle: #888;
+        --border-color: #333;
+        --primary-color: #FF6600;
+        --primary-color-hover: #e65c00;
+        --nav-hover-bg: #2c2c2c;
+        --shadow-color: rgba(0, 0, 0, 0.2);
+    }
+}
+
+/* --- CSS Variables - Dark Theme (khi có class .dark) --- */
+.dark {
     --bg-body: #121212;
     --bg-sidebar: #1e1e1e;
     --bg-content: #1e1e1e;
