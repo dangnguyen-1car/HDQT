@@ -147,12 +147,3 @@ Hệ thống kiểm soát nội bộ được tích hợp vào các quy trình v
 | **Báo cáo Kết quả KD (Quản trị)** | Hàng tháng | Phòng TCKT | Ban Điều hành, HĐQT | Đánh giá hiệu quả hoạt động, KPIs |
 | **Báo cáo Tài chính (Pháp quy)** | Hàng quý/năm | Phòng TCKT | HĐQT, Cơ quan Thuế | Tuân thủ pháp luật, báo cáo cổ đông |
 | **Báo cáo Kiểm soát & Rủi ro** | Hàng quý | Ủy ban KT&QLRR | Hội đồng Quản trị | Giám sát tuân thủ và hiệu quả kiểm soát |
-
----
-**TM. HỘI ĐỒNG QUẢN TRỊ**
-**CHỦ TỊCH**
-
-*(Ký tên và đóng dấu)*
-
-**[Chủ tịch HĐQT]**
----

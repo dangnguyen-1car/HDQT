@@ -216,11 +216,3 @@
 *   **Báo cáo vi phạm:** Mọi hành vi vi phạm có thể được báo cáo qua cấp quản lý trực tiếp, Phòng Nhân sự hoặc kênh báo cáo ẩn danh do Ủy ban Kiểm toán và Quản lý Rủi ro giám sát. Công ty cam kết bảo vệ người báo cáo trung thực.
 *   **Xử lý vi phạm:** Tùy theo mức độ vi phạm, các hình thức xử lý kỷ luật có thể bao gồm khiển trách, cảnh cáo, trừ lương, cho đến chấm dứt hợp đồng lao động và truy cứu trách nhiệm trước pháp luật.
 
----
-**TM. HỘI ĐỒNG QUẢN TRỊ**
-**CHỦ TỊCH**
-
-*(Ký tên và đóng dấu)*
-
-**[Chủ tịch HĐQT]**
----

@@ -164,11 +164,3 @@ Ngoài các nhiệm vụ và quyền hạn được quy định trong Luật Doa
 1.  Quy chế này gồm 05 Chương, 12 Điều, có hiệu lực kể từ ngày được Hội đồng Quản trị thông qua bằng một Nghị quyết.
 2.  Việc sửa đổi, bổ sung Quy chế này do HĐQT quyết định.
 
----
-**TM. HỘI ĐỒNG QUẢN TRỊ**
-**CHỦ TỊCH**
-
-*(Ký tên và đóng dấu)*
-
-**[Chủ tịch HĐQT]**
----

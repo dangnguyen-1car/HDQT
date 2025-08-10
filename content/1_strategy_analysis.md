@@ -10,7 +10,7 @@
 
 ***
 
-### 1. Tóm tắt (Executive Summary)
+### 1. Tóm tắt
 
 Bản ghi nhớ này tổng hợp các phân tích và khuyến nghị chiến lược cốt lõi, nhằm định hình khung quản trị cho dự án phát triển chuỗi garage ô tô tiêu chuẩn cao tại Việt Nam. Phân tích chỉ ra một cơ hội thị trường rõ rệt trong việc đáp ứng nhu cầu của phân khúc chủ xe hậu bảo hành, những người tìm kiếm dịch vụ **chất lượng tương đương đại lý với chi phí hợp lý**.
 
